@@ -5,8 +5,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A responsive personal portfolio website built with Nuxt.js, showcasing your skills, projects, and contact information.
+<img src="https://drive.google.com/file/d/1O50CWW_ERrkRgypDadD6rhI3subyS8SV/view?usp=sharing" alt="Portfolio Preview" width="600">
 
-![Portfolio Preview](https://drive.google.com/file/d/1O50CWW_ERrkRgypDadD6rhI3subyS8SV/view?usp=sharing)
 
 ## 🌟 Features
 
