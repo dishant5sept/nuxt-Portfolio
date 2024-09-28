@@ -6,7 +6,7 @@
 
 A responsive personal portfolio website built with Nuxt.js, showcasing your skills, projects, and contact information.
 
-![Portfolio Preview](link-to-your-portfolio-preview-image.png)
+![Portfolio Preview](https://drive.google.com/file/d/1O50CWW_ERrkRgypDadD6rhI3subyS8SV/view?usp=sharing)
 
 ## 🌟 Features
 
